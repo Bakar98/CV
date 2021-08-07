@@ -7,7 +7,7 @@
   <body>
     <table cellspacing="20px">
       <tr>
-        <td><img src="C:circle-cropped.png" alt="My profile picture"></td>
+        <td><img src="circle-cropped.png" alt="My profile picture"></td>
         <td><h1>Mohammad Abubakar</h1>
         <p><i>Student At <strong><a href="https://www.iul.ac.in/">Integral University</a></strong></i></p>
         <p>I am a Software Engineer student currently learning web development bootcamp with <strong>Angela Wu</strong> and i love to watch english web series</p>
