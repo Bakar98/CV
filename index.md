@@ -20,7 +20,7 @@
         <td><img src="circle-cropped.png" alt="My profile picture"></td>
         <td><h1>Mohammad Abubakar</h1>
         <p><i>Student At <strong><a href="https://www.iul.ac.in/">Integral University</a></strong></i></p>
-        <p>I am a Software Engineer student currently learning web development bootcamp with <strong>Angela Wu</strong> and looking forward to build this site more eye caching</p>
+        <p>I am a Software Engineer student currently learning web development bootcamp with <strong>Angela Wu</strong> and looking forward to build this site more eye catching</p>
         <p><a href="contact.html">Contact</a></p></td>
       </tr>
     </table>
