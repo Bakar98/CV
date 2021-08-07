@@ -1,8 +1,18 @@
-<!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
     <title>💖NetCracker</title>
+    <style>
+      body{
+        background-color: #FFB740;
+      }
+      hr{
+        width: 10%;
+        border-style: dotted none none;
+        border-color: grey;
+        border-width: 5px;
+      }
+    </style>
   </head>
   <body>
     <table cellspacing="20px">
