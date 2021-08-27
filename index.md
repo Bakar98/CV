@@ -1,7 +1,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>💖NetCracker</title>
+    <title>NetCracker</title>
     <style>
       body{
         background-color: #FFB740;
@@ -17,7 +17,7 @@
   <body>
     <table cellspacing="20px">
       <tr>
-        <td><img src="circle-cropped.png" alt="My profile picture"></td>
+        <td><img src="Profile.jpg" alt="My profile picture"></td>
         <td><h1>Mohammad Abubakar</h1>
         <p><i>Student At <strong><a href="https://www.iul.ac.in/">Integral University</a></strong></i></p>
         <p>I am a Software Engineer student currently learning web development bootcamp with <strong>Angela Wu</strong> and looking forward to build this site more eye catching</p>
