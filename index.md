@@ -36,22 +36,7 @@
     </ul>
     <hr>
     <h3>Work Experience</h3>
-    <table cellspacing="20px">
-      <tr>
-        <th>Dates</th>
-        <th>Company</th>
-      </tr>
-      <tbody>
-        <tr>
-          <td>2019-20</td>
-          <td>Amazon</td>
-        </tr>
-        <tr>
-          <td>2020-21</td>
-          <td>Zomato</td>
-        </tr>
-      </tbody>
-    </table>
+    
     <hr>
     <h3>Skills</h3>
     <table cellspacing="10px">
